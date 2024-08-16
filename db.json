@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "Nupat_24",
+      "userType": "facilitator",
+      "course": "Cybersecurity",
+      "cohort": "August 2024"
+    },
+    {
+      "id": "2",
+      "fullName": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "Nupat_24",
+      "userType": "student",
+      "course": "Front End Development",
+      "cohort": "August 2024"
+    },
+    {
+      "id": "4131",
+      "fullName": "Raji Musawir Olaitan",
+      "email": "musawir.raji@gmail.com",
+      "password": "Nupat_24",
+      "userType": "student",
+      "course": "Cybersecurity",
+      "cohort": "August 2024"
+    },
+    {
+      "id": "33fb",
+      "fullName": "Test User",
+      "email": "test@test.com",
+      "password": "Nupat_24",
+      "userType": "student",
+      "course": "UI/UX Design",
+      "cohort": "January 2025"
+    }
+  ]
+}
